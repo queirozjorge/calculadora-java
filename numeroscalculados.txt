@@ -1,0 +1,4 @@
+multiplicacao de 9 e 8
+soma de 10 e 10
+subtracao de 30 e 4
+SOMA de 12 e 3
